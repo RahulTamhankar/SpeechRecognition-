@@ -6,10 +6,14 @@ The ability of a machine or programme to recognise words spoken aloud and transl
 
 ![image](https://user-images.githubusercontent.com/87760177/212671914-0ea55b29-6386-4e11-82ff-594f85c7f601.png)
 
+About this Project-
+
 This Real Time Speech Recognition to Search Youtube Video is a small project that allows users to speak commands into their computer's microphone so that the Speech Recognition API can comprehend them. Once the voice command has been recorded. The voice command captured will then trigger a web based query in web browser  to automatically open the YouTube.com search page and look for a specific video using the user's spoken keyword.
 
-Test
+Test-
+
 ![image](https://user-images.githubusercontent.com/87760177/212538561-ef6dde8c-75f1-4995-9aa3-581ba4a90b5d.png)
 
 Output-
+
 ![image](https://user-images.githubusercontent.com/87760177/212538523-da2da1c5-41d0-44ed-aaf7-353223e350ac.png)
