@@ -25,8 +25,6 @@ import pafy- Will be used to retrive imformation from YouTube
 import urllib.request- Used to fetch URLs
 from bs4 import BeautifulSoup- Used to perform web scrapping for a HTML page
 
-#Create an empty list to store all the video URLs from the youtube.com page
-
 ![image](https://user-images.githubusercontent.com/87760177/212671914-0ea55b29-6386-4e11-82ff-594f85c7f601.png)
 
 About this Project-
