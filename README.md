@@ -8,6 +8,7 @@ There are many python packages for Speech Regognition in Python-
 -google-cloud-speech etc
 
 Python Packages I have used- SpeechRegognition
+
 SpeechRegognition Class used- Recognizer()
 This class has about 7 methods by which it can recognize speech from an audio source with the help of various APIs.
 There methods are-
