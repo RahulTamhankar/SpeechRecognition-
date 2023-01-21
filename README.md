@@ -1,4 +1,4 @@
-# SpeechRecognition-
+# SpeechRecognition
 This is a real time speech recognition project to search videos on youtube
 
 What is speech recognition?
