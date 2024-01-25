@@ -3,7 +3,7 @@ This is a real time speech recognition project to search videos on youtube
 
 What is speech recognition?
 The ability of a machine or programme to recognise words spoken aloud and translate them into legible text is known as voice recognition, often known as speech-to-text. Basic voice recognition software can only pick out words and phrases that are uttered clearly and has a small repertoire. More advanced software can handle diverse languages, accents, and natural speech. Speech Recognition is used in Apple Siri, Google Assistant etc.
-There are many python packages for Speech Regognition in Python-
+There are many python packages for Speech recognition in Python-
 -SpeechRegognition
 -google-cloud-speech etc
 
